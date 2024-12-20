@@ -1,0 +1,5 @@
+<library path="lib/libMrsUavStateEstimators_VinsMono">
+  <class name="vins_mono/VinsMonoEstimatorPlugin" type="vins_mono::VinsMono" base_class_type="mrs_uav_managers::StateEstimator">
+    <description>vins_mono state estimator</description>
+  </class>
+</library>
